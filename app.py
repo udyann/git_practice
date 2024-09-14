@@ -1,2 +1,4 @@
+
+print("hello branchB")
 print("hello, branchA")
-print("hello, branchToRebase")
+print("hello, branchToSquash")
